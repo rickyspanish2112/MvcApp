@@ -28,3 +28,4 @@
 /Users/rossstarkey/Dev/MvcApp/obj/Debug/net8.0/MvcApp.pdb
 /Users/rossstarkey/Dev/MvcApp/obj/Debug/net8.0/MvcApp.genruntimeconfig.cache
 /Users/rossstarkey/Dev/MvcApp/obj/Debug/net8.0/ref/MvcApp.dll
+/Users/rossstarkey/Dev/MvcApp/obj/Debug/net8.0/MvcApp.sourcelink.json
